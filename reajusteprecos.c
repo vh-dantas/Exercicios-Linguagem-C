@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main(void){
     float preco;
 
     printf("-----------Reajuste de Precos-----------");
@@ -28,7 +28,6 @@ int main(){
         printf("\nO valor foi alterado com base na tabela de reajustes.");
 
     }
-
 
     return 0;
 }
