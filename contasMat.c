@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 int main(void){
 
@@ -51,7 +50,6 @@ int main(void){
     else{
         printf("O numero digitado e invalido");
     }
-
 
     return 0;
 }
